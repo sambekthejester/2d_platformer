@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ForeGround
+  - Water
+  - UI
+  - Player
+  - MiddleGround
+  - BackGround
+  - DeadZone
+  - Enemy
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1106947623
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 1778622033
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4211977623
+    locked: 0
+  - name: DeadZone
+    uniqueID: 2006154553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3120159615
+    locked: 0
